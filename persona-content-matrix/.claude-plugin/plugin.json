@@ -1,0 +1,13 @@
+{
+  "name": "persona-content-matrix",
+  "description": "Maps your content inventory against personas and funnel stages to surface gaps. Outputs a prioritized content brief backlog — not a spreadsheet, an action plan.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mia Chaszeyka",
+    "url": "https://miachaszeyka.com"
+  },
+  "homepage": "https://github.com/miachaszeyka/mia-plugins",
+  "repository": "https://github.com/miachaszeyka/mia-plugins",
+  "license": "MIT",
+  "tags": ["marketing", "content", "pmm", "demand-gen", "persona"]
+}

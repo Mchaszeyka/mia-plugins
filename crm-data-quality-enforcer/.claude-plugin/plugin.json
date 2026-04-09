@@ -1,0 +1,13 @@
+{
+  "name": "crm-data-quality-enforcer",
+  "description": "Audits CRM exports for data hygiene issues: missing required fields, duplicate records, invalid lifecycle stages, inconsistent values, and consent field gaps. Outputs a data quality scorecard and field-level remediation log.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mia Chaszeyka",
+    "url": "https://miachaszeyka.com"
+  },
+  "homepage": "https://github.com/miachaszeyka/mia-plugins",
+  "repository": "https://github.com/miachaszeyka/mia-plugins",
+  "license": "MIT",
+  "tags": ["marketing-ops", "revops", "crm", "hubspot", "data-quality", "gdpr"]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "email-performance-debrief",
+  "description": "Diagnose email campaign underperformance against industry benchmarks. Identifies root cause by symptom pattern (open rate, CTR, unsub rate, conversions) and outputs a prioritized optimization plan.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mia Chaszeyka",
+    "url": "https://miachaszeyka.com"
+  },
+  "homepage": "https://github.com/miachaszeyka/mia-plugins",
+  "repository": "https://github.com/miachaszeyka/mia-plugins",
+  "license": "MIT",
+  "tags": ["marketing", "email", "analytics", "marketing-ops", "demand-gen"]
+}

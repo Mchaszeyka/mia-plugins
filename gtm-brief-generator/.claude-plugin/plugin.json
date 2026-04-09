@@ -1,0 +1,13 @@
+{
+  "name": "gtm-brief-generator",
+  "description": "Generate complete, stakeholder-ready GTM briefs from a feature spec or release note. Outputs positioning, personas, key messages, sales talking points, objection handlers, and recommended channel mix.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mia Chaszeyka",
+    "url": "https://miachaszeyka.com"
+  },
+  "homepage": "https://github.com/miachaszeyka/mia-plugins",
+  "repository": "https://github.com/miachaszeyka/mia-plugins",
+  "license": "MIT",
+  "tags": ["marketing", "product", "sales", "gtm", "pmm"]
+}

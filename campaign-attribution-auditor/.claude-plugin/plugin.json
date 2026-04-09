@@ -1,0 +1,13 @@
+{
+  "name": "campaign-attribution-auditor",
+  "description": "Audits UTM parameters, GA4 data, and CRM campaign records for attribution gaps. Identifies broken UTMs, consent-loss revenue, CDN/tracking issues, and misattributed pipeline. Outputs a prioritized fix list with estimated revenue impact per gap.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mia Chaszeyka",
+    "url": "https://miachaszeyka.com"
+  },
+  "homepage": "https://github.com/miachaszeyka/mia-plugins",
+  "repository": "https://github.com/miachaszeyka/mia-plugins",
+  "license": "MIT",
+  "tags": ["marketing", "analytics", "attribution", "marketing-ops", "ga4", "hubspot", "gdpr"]
+}

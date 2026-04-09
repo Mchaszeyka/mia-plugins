@@ -1,0 +1,13 @@
+{
+  "name": "nurture-sequence-architect",
+  "description": "Builds complete, deployable nurture sequence playbooks from an ICP definition and offer. Outputs sequence map, email briefs, HubSpot enrollment criteria, suppression logic, and A/B test recommendations — not just copy.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mia Chaszeyka",
+    "url": "https://miachaszeyka.com"
+  },
+  "homepage": "https://github.com/miachaszeyka/mia-plugins",
+  "repository": "https://github.com/miachaszeyka/mia-plugins",
+  "license": "MIT",
+  "tags": ["marketing", "marketing-ops", "email", "nurture", "hubspot", "demand-gen"]
+}

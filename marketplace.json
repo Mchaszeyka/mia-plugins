@@ -1,0 +1,91 @@
+{
+  "name": "Mia Plugins — Marketing, Sales & Product Operations",
+  "description": "10 production-grade Claude Cowork plugins for marketing ops, demand gen, product marketing, sales, and RevOps professionals.",
+  "author": {
+    "name": "Mia Chaszeyka",
+    "url": "https://miachaszeyka.com",
+    "github": "miachaszeyka"
+  },
+  "plugins": [
+    {
+      "name": "gtm-brief-generator",
+      "path": "./gtm-brief-generator",
+      "description": "Generate complete GTM briefs from feature specs or release notes.",
+      "tags": ["marketing", "product", "sales", "pmm", "gtm"],
+      "complexity": "low",
+      "works_with": ["Cowork", "Claude Code"]
+    },
+    {
+      "name": "email-performance-debrief",
+      "path": "./email-performance-debrief",
+      "description": "Diagnose email campaign underperformance with benchmark comparison and root cause analysis.",
+      "tags": ["marketing", "email", "analytics", "marketing-ops"],
+      "complexity": "low",
+      "works_with": ["Cowork", "Claude Code"]
+    },
+    {
+      "name": "win-loss-synthesizer",
+      "path": "./win-loss-synthesizer",
+      "description": "Synthesize win/loss interviews into structured competitive intelligence briefs.",
+      "tags": ["product", "sales", "competitive-intelligence", "pmm"],
+      "complexity": "low",
+      "works_with": ["Cowork", "Claude Code"]
+    },
+    {
+      "name": "persona-content-matrix",
+      "path": "./persona-content-matrix",
+      "description": "Map content inventory against personas to surface gaps and produce brief backlog.",
+      "tags": ["marketing", "content", "pmm", "demand-gen"],
+      "complexity": "low",
+      "works_with": ["Cowork", "Claude Code"]
+    },
+    {
+      "name": "launch-readiness-agent",
+      "path": "./launch-readiness-agent",
+      "description": "Generate role-specific launch checklists with owner assignment and blocker detection.",
+      "tags": ["product", "marketing", "pmm", "launch", "events"],
+      "complexity": "medium",
+      "works_with": ["Cowork", "Claude Code"]
+    },
+    {
+      "name": "nurture-sequence-architect",
+      "path": "./nurture-sequence-architect",
+      "description": "Build deployable nurture sequence playbooks with enrollment criteria, branch logic, and A/B test plans.",
+      "tags": ["marketing", "marketing-ops", "email", "nurture", "hubspot"],
+      "complexity": "medium",
+      "works_with": ["Cowork", "Claude Code"]
+    },
+    {
+      "name": "campaign-attribution-auditor",
+      "path": "./campaign-attribution-auditor",
+      "description": "Audit UTM parameters and GA4/CRM data for attribution gaps with quantified revenue impact.",
+      "tags": ["marketing", "analytics", "attribution", "ga4", "gdpr"],
+      "complexity": "medium",
+      "works_with": ["Cowork", "Claude Code"]
+    },
+    {
+      "name": "crm-data-quality-enforcer",
+      "path": "./crm-data-quality-enforcer",
+      "description": "Audit CRM exports for hygiene issues with scorecard and field-level remediation log.",
+      "tags": ["marketing-ops", "revops", "crm", "hubspot", "gdpr"],
+      "complexity": "medium",
+      "works_with": ["Cowork", "Claude Code"]
+    },
+    {
+      "name": "segment-health-monitor",
+      "path": "./segment-health-monitor",
+      "description": "Pre-send segment health checks: drift detection, suppression validation, consent coverage, overlap analysis.",
+      "tags": ["marketing-ops", "segment", "hubspot", "cdp", "audience"],
+      "complexity": "high",
+      "works_with": ["Cowork", "Claude Code"]
+    },
+    {
+      "name": "icp-signal-scanner",
+      "path": "./icp-signal-scanner",
+      "description": "Scan target accounts for buying intent signals and score by purchase readiness.",
+      "tags": ["sales", "marketing", "icp", "intent", "abm"],
+      "complexity": "high",
+      "works_with": ["Cowork", "Claude Code"]
+    }
+  ]
+}

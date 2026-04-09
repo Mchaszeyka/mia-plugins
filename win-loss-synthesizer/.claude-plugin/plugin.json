@@ -1,0 +1,13 @@
+{
+  "name": "win-loss-synthesizer",
+  "description": "Synthesizes win/loss interview transcripts or call notes into a structured competitive intelligence brief. Extracts decision criteria, objection patterns, and competitive signals across multiple interviews.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mia Chaszeyka",
+    "url": "https://miachaszeyka.com"
+  },
+  "homepage": "https://github.com/miachaszeyka/mia-plugins",
+  "repository": "https://github.com/miachaszeyka/mia-plugins",
+  "license": "MIT",
+  "tags": ["product", "sales", "competitive-intelligence", "pmm", "win-loss"]
+}

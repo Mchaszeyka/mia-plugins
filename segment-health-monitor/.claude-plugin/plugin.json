@@ -1,0 +1,13 @@
+{
+  "name": "segment-health-monitor",
+  "description": "Audits audience segments across CRM and CDP for size drift, logic gaps, overlap, suppression failures, and delivery readiness. Flags misfiring segments before a send goes out. Covers HubSpot lists, Segment audiences, and CDP-to-CRM bridge patterns.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mia Chaszeyka",
+    "url": "https://miachaszeyka.com"
+  },
+  "homepage": "https://github.com/miachaszeyka/mia-plugins",
+  "repository": "https://github.com/miachaszeyka/mia-plugins",
+  "license": "MIT",
+  "tags": ["marketing-ops", "segment", "hubspot", "cdp", "audience", "email", "gdpr"]
+}

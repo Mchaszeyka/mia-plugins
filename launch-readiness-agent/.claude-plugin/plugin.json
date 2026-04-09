@@ -1,0 +1,13 @@
+{
+  "name": "launch-readiness-agent",
+  "description": "Generates a role-specific launch readiness checklist from a launch brief. Assigns owners, flags missing assets, surfaces blockers, and monitors completion via Google Drive and Slack. Works for product launches, feature releases, and events.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mia Chaszeyka",
+    "url": "https://miachaszeyka.com"
+  },
+  "homepage": "https://github.com/miachaszeyka/mia-plugins",
+  "repository": "https://github.com/miachaszeyka/mia-plugins",
+  "license": "MIT",
+  "tags": ["product", "marketing", "pmm", "launch", "events", "project-management"]
+}
