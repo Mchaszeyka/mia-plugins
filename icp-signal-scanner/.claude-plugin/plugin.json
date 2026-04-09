@@ -1,13 +1,21 @@
 {
   "name": "icp-signal-scanner",
-  "description": "Scans a target account list for buying intent signals — funding rounds, hiring patterns, tech stack changes, exec moves, and news events. Scores accounts by signal strength and outputs a prioritized outreach list with signal rationale per account.",
+  "description": "Scans a target account list for buying intent signals \u2014 funding rounds, hiring patterns, tech stack changes, exec moves, and news events. Scores accounts by signal strength and outputs a prioritized outreach list with signal rationale per account.",
   "version": "1.0.0",
   "author": {
     "name": "Mia Chaszeyka",
     "url": "https://miachaszeyka.com"
   },
-  "homepage": "https://github.com/miachaszeyka/mia-plugins",
-  "repository": "https://github.com/miachaszeyka/mia-plugins",
+  "homepage": "https://github.com/Mchaszeyka/mia-plugins",
+  "repository": "https://github.com/Mchaszeyka/mia-plugins",
   "license": "MIT",
-  "tags": ["sales", "marketing", "product", "icp", "intent", "prospecting", "abm"]
+  "keywords": [
+    "sales",
+    "marketing",
+    "product",
+    "icp",
+    "intent",
+    "prospecting",
+    "abm"
+  ]
 }

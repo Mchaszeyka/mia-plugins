@@ -6,8 +6,16 @@
     "name": "Mia Chaszeyka",
     "url": "https://miachaszeyka.com"
   },
-  "homepage": "https://github.com/miachaszeyka/mia-plugins",
-  "repository": "https://github.com/miachaszeyka/mia-plugins",
+  "homepage": "https://github.com/Mchaszeyka/mia-plugins",
+  "repository": "https://github.com/Mchaszeyka/mia-plugins",
   "license": "MIT",
-  "tags": ["marketing-ops", "segment", "hubspot", "cdp", "audience", "email", "gdpr"]
+  "keywords": [
+    "marketing-ops",
+    "segment",
+    "hubspot",
+    "cdp",
+    "audience",
+    "email",
+    "gdpr"
+  ]
 }
